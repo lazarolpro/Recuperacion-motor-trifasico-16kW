@@ -2,7 +2,7 @@
 Diagnóstico y recuperación de un motor trifásico de orign Checoslovaco de 16 kW de potencia nominal y 440/760 V Δ/Y: 440 V en triángulo y 760 V en estrella. que mantenía fuera de servicio una línea de producción.
 Caso técnico — Taller de Servicios Electromecánicos de Empresa estatal, Cuba · 1992
 
-![Motor Trifásico 16Kw](ruta_o_enlace_de_la_imagen)
+![Motor Trifásico 16Kw](https://github.com/lazarolpro/Recuperacion-motor-trifasico-16kW/blob/main/tecnico_reparando_motor.jpeg)
 
 ## Tres técnicos. Dos rebobinados. El mismo cortocircuito.
 En 1992, siendo un joven ayudante de taller, mi primer empleo, decidí intentar resolver una avería que seguía deteniendo un motor crítico de la línea de producción.
