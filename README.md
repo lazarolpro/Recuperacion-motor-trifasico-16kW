@@ -13,8 +13,10 @@ En 1992, siendo un joven ayudante de taller, mi primer empleo, decidí intentar 
 | Año | 1980 |
 | Motor | Trifásico |
 | Potencia | 16 kW |
-| Tensión | 440V |
+| Tensión | 380/440V |
 | Conexión | Delta-Estrella |
+| Eficiencia | EFF2 / mejorada: cerca de 91–93% |
+| Tipo de Control | Arranque electromecánico convencional — directo, estrella-triángulo |
 | Procedencia | Checoslovaquia |
 | Aplicación | Línea de Mezclado |
 | Problema | Cortocircuito interno persistente |
