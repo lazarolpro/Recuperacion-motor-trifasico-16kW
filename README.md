@@ -47,16 +47,18 @@ A partir de esa información reconstruí el esquema del devanado, prestando espe
 
 # 04 — De la teoría al taller
 
-(Un visual: Desmontaje → identificación → documentación → cálculo/esquema → rebobinado → montaje → prueba)
+Visual del proceso que seguí: Desmontaje → identificación → documentación → cálculo/esquema → rebobinado → montaje → prueba.
 
-(Crear un diagrama vectorial del devanado con:
+Y un diagrama vectorial del devanado con:
     • 3 fases
     • grupos de bobinas
     • sentidos de bobinado
     • paso adelante
     • paso atrás
     • conexiones
-    • esquema antes/después)
+    • esquema antes/después.
+
+![Visual y Diagrama de todo el proceso seguido](https://github.com/lazarolpro/Recuperacion-motor-trifasico-16kW/blob/main/proceso-rebobinado.jpeg)
 
 # 05 — La prueba
 
