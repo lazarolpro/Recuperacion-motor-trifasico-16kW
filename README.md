@@ -40,7 +40,7 @@ Solicité autorización a mis superiores para intentar reparar personalmente el 
 
 # 03 — El descubrimiento técnico
 
-(Aquí haría una ilustración grande del devanado.)
+[(Datos extraídos del devanado del motor para su rebobinado)](https://github.com/lazarolpro/Recuperacion-motor-trifasico-16kW/blob/main/Devanado-motor-checo-16kw.jpeg)
 
 Durante el estudio encontré una configuración de devanado que correspondía con las características del motor: un sistema denominado en aquella época “paso adelante – paso atrás”, asociado a un devanado fraccionario (Lap Winding).
 A partir de esa información reconstruí el esquema del devanado, prestando especial atención a la distribución de las bobinas, el número de vueltas y el sentido de cada grupo de bobinas dentro de las tres fases.
