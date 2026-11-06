@@ -29,7 +29,7 @@ Era el ayudante que decidió investigar el problema antes de aceptar que el moto
 # 01 — El problema
 El motor accionaba parte de la línea de mezclado utilizada para la producción de yogurt y helados destinados al consumo de la provincia. Había sido revisado por técnicos y especialistas y rebobinado en dos ocasiones, pero el problema de cortocircuito interno persistía.
 
-(colocar un diagrama visual del sistema: Motor → transmisión → equipo de mezclado → línea de producción)
+![Sistema de Producción de la época](https://github.com/lazarolpro/Recuperacion-motor-trifasico-16kW/blob/main/sistema-produccion.png)
 
 # 02 — El punto de inflexión
 
